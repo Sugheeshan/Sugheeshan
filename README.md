@@ -3,6 +3,7 @@
 Analyst A4 @ Capgemini
 <img align="right" width="300" height="250" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">                                             
 - 🌱 I’m currently learning WEB-DEV
+- 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/sugheeshan03) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sugheeshan/)
