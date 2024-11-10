@@ -21,7 +21,7 @@ Analyst A4 @ Capgemini
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/dell%20laptop-007DB8?style=for-the-badge&logo=dell&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sugheeshan&theme=dark&show_icons=true&&hide=issues,contribs)
+![Sugheeshan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=sugheeshan&show_icons=true&locale=en&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sugheeshan?theme=dark&font=Marcellus%20SC&ext=heatmap)
 
