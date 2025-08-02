@@ -10,7 +10,7 @@ Data Scientist @ Capgemini
 - 😄 Pronouns: Techie
 
 ### I code in
-<img height="50" width="50" src="	https://1000logos.net/wp-content/uploads/2020/08/Python-Logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/dart.png" alt="dart"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo.png" alt="external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-color-tal-revivo"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 
