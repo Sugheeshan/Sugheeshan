@@ -1,8 +1,8 @@
 ## Hi there 👋 It's me Sugheeshan
 
-Analyst A4 @ Capgemini
+Data Scientist @ Capgemini
 <img align="right" width="300" height="250" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">                                             
-- 🌱 I’m currently learning WEB-DEV
+- 🌱 I’m currently into Machine Learning
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about Tech
 - 📫 How to reach me :
